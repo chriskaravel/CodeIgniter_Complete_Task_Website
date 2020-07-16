@@ -1,0 +1,2 @@
+# CodeIgniter_Complete_Task_Website
+This is a website where a user has to complete a task and we keep track of the time it took him to complete.The user gets an access code to login and see the content. The 1st time the user inserts the access code we get the current date and time so that we know when the task started. When the user inserts the access code he will see the content and he can upload a file (response).Every time the user uploads a file response we take the current date and time so that we know when the task finished.
