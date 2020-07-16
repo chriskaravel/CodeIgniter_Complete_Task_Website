@@ -1,0 +1,115 @@
+﻿body#page1{ 
+   background:#00222b; 
+}
+body#page2{
+	background-color:#bababa;
+	margin-right: 2em;
+	margin-left: 2em;
+}
+button.ok {
+    background-color: #f8801b; 
+	font-size: 20px;
+    border: none;
+    color: white;
+	font-family: sans-serif;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+button.submit {
+    background-color: #2098c2; 
+	font-size: 20px;
+    border: none;
+    color: white;
+	font-family: sans-serif;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
+label {
+font-family:  sans-serif;
+color: #b3b3b3; 
+font-size: 20px;
+}
+input[type=text], select {
+	font-family:  sans-serif;
+	font-size: 20px;
+    width: 50%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+}
+div.logo{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+	width: 100px;
+	height: 50px;
+  }
+div.homewhite{
+background-color:white;
+font-family:  sans-serif;
+color: #00222b; 
+font-size: 20px;
+text-align: justify;
+padding:2em;
+}
+
+div.hometag{
+font-family:  sans-serif;
+color: #00222b; 
+font-size: 20px;
+margin-bottom: 1.5em;
+}
+div.header{
+font-family:  sans-serif;
+color: #00222b; 
+font-size: 20px;
+
+}
+div.timestamp{
+font-family:  sans-serif;
+color: #00222b; 
+font-size: 20px;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+div.details{
+font-family:  sans-serif;
+color: #00222b; 
+font-size: 16px;
+}
+div.upload{
+border-radius: 3px;
+border: 1px dashed #000;
+width: 320px;
+height: 30px;
+padding: 8px;
+}
+div.uploadcenter2{
+	color: #b3b3b3;
+    position: absolute;
+    top: inherit;
+    left: 30%;
+    margin-top: -25px;
+	margin-left: -50px;
+}
+div.uploadcenter{
+	color: #b3b3b3;
+    position:relative;
+	bottom: 87%;
+    left:110%;
+}
+div.logincenter{
+	color: #b3b3b3;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    margin-top: -50px;
+    margin-left: -50px;
+}​
+
